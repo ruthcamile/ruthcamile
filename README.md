@@ -1,71 +1,32 @@
-<h1 align="center">👾 Hey, eu sou a Ruth Camile 👾</h1>
+<h2>Oii! Sou a Ruth Camile </h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=bd93f9&size=25&center=true&vCenter=true&width=500&lines=Backend+Developer;Cloud+AWS+Learner;Future+Tech+Queen+👑">
-</p>
+</h2>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=bd93f9&size=25&vCenter=true&width=500&lines=Backend+Developer;AWS+Cloud;Data+Analyst;Software+Engineering" />
+</h2>
 
----
-
-<p align="center">
-<img src="https://img.shields.io/badge/AWS-re/Start-ff9900?style=for-the-badge&logo=amazonaws"/>
-</p>
+[![AWS](https://img.shields.io/badge/AWS-re/Start-fff?style=for-the-badge&labelColor=ff9900&logo=amazonaws&logoColor=white)](https://aws.amazon.com/training/restart/)
+[![FACEPE COMPET](https://img.shields.io/badge/FACEPE%20COMPET%20-2024-fff?style=for-the-badge&labelColor=7e01ff&logoColor=white)]()
+[![CAPGEMINI](https://img.shields.io/badge/Start%20by%20Capgemini-Cloud-fff?style=for-the-badge&labelColor=0056D2&logo=capgemini&logoColor=white)](https://www.capgemini.com/)
 
 ---
 
-<p align="center">
-Backend | AWS 
-</p>
-
----
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ruthcamile&show_icons=true&theme=radical&border_radius=10"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthcamile&layout=compact&theme=radical"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=ruthcamile&count_private=true&show_icons=true&theme=merko)
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthcamile&layout=compact&theme=radical"/>
 </div>
 
 ---
+<h2>Tecnologias</h2><br>
 
-<h2 align="center">⚡ Tech Stack ⚡</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,ts,mysql,sqlite,git,figma,aws"/>
-</p>
-
----
-
-<h2 align="center"> Atualmente upando skill</h2>
-
-<p align="center">
-☁️ AWS • 🔐 JWT • 🛠️ APIs • 🗄️ SQL
-</p>
-
----
-
-<h2 align="center">Missões</h2>
-
-<p align="center">
-Evoluir no backend <br>
-Dominar AWS
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS Cloud](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-FF0000?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-<h2 align="center">📡 Conecte-se comigo</h2>
-
-<p align="center">
-<a href="https://linkedin.com/in/SEU_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=dracula&no-frame=true&row=1"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
