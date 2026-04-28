@@ -1,4 +1,4 @@
-<h2>Oii! Sou a Ruth Camile </h2>
+<h2>Oiê! Me chamo Ruth Camile :) </h2>
 
 </h2>
   <img src="https://readme-typing-svg.herokuapp.com/?color=bd93f9&size=25&vCenter=true&width=500&lines=Backend+Developer;AWS+Cloud;Data+Analyst;Software+Engineering" />
