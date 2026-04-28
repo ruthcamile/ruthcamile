@@ -1,7 +1,7 @@
 <h2>Oiê! Me chamo Ruth Camile :) </h2>
 
 </h2>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=bd93f9&size=25&vCenter=true&width=500&lines=Backend+Developer;AWS+Cloud;Data+Analyst;Software+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=bd93f9&size=25&vCenter=true&width=500&lines=Backend+Developer;AWS+Cloud;Data+Analyst" />
 </h2>
 
 [![AWS](https://img.shields.io/badge/AWS-re/Start-fff?style=for-the-badge&labelColor=ff9900&logo=amazonaws&logoColor=white)](https://aws.amazon.com/training/restart/)
