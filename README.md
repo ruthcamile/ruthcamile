@@ -5,7 +5,7 @@
 </h2>
 
 [![AWS](https://img.shields.io/badge/AWS-re/Start-fff?style=for-the-badge&labelColor=ff9900&logo=amazonaws&logoColor=white)](https://aws.amazon.com/training/restart/)
-[![FACEPE COMPET](https://img.shields.io/badge/FACEPE%20COMPET%20-2024-fff?style=for-the-badge&labelColor=7e01ff&logoColor=white)]()
+[![FACEPE COMPET](https://img.shields.io/badge/FACEPE%20COMPET%20-2025-fff?style=for-the-badge&labelColor=7e01ff&logoColor=white)]()
 [![CAPGEMINI](https://img.shields.io/badge/Start%20by%20Capgemini-Cloud-fff?style=for-the-badge&labelColor=0056D2&logo=capgemini&logoColor=white)](https://www.capgemini.com/)
 
 ---
