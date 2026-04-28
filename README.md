@@ -1,52 +1,75 @@
-<h2>Oii! Sou eu Ruth Camile 👋</h2>
+<h1 align="center">👾 Hey, eu sou a Ruth Camile 👾</h1>
 
-[![START](https://img.shields.io/badge/START+-CYBERSECURITY-fff?style=for-the-badge&labelColor=7e01ff&logoColor=white)](https://www.redecidada.org.br/projetos/projeto-start/)
-[![AWS](https://img.shields.io/badge/AWS-re/Start-fff?style=for-the-badge&labelColor=ff9900&logo=amazonaws&logoColor=white)](https://aws.amazon.com/training/restart/)
-
----
-
-Focada em **Backend + Cloud (AWS)**  
-Em busca de uma oportunidade de estágio  
-Sempre aprendendo e construindo projetos
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=bd93f9&size=25&center=true&vCenter=true&width=500&lines=Backend+Developer;Cloud+AWS+Learner;Future+Tech+Queen+👑">
+</p>
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ruthcamile&count_private=true&show_icons=true&theme=merko)
+<p align="center">
+<img src="https://img.shields.io/badge/PROGRAMADORES%20DO%20AMANHÃ-Turma_5-ff00ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/START+-CYBERSECURITY-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-re/Start-ff9900?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Decola_Tech-Turma_6-ff4500?style=for-the-badge"/>
+</p>
 
 ---
 
-<h2>🚀 Tecnologias</h2><br>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+<p align="center">
+💻 Backend | ☁️ AWS | 🚀 Em evolução constante  
+</p>
 
 ---
 
-<h2>📚 Atualmente estudando</h2>
-
-- ☁️ AWS (cloud computing)
-- 🔐 Autenticação com JWT
-- 🛠️ APIs REST com Node.js
-- 🗄️ Banco de dados (SQL)
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&border_radius=10"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical"/>
+</div>
 
 ---
 
-<h2>🎯 Objetivos</h2>
+<h2 align="center">⚡ Tech Stack ⚡</h2>
 
-- Conseguir minha primeira vaga de estágio 💼  
-- Me especializar em backend + cloud ☁️  
-- Evoluir como desenvolvedora 🚀  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,ts,mysql,sqlite,docker,git,figma,aws"/>
+</p>
+
+---
+
+<h2 align="center">🧠 Atualmente upando skill</h2>
+
+<p align="center">
+☁️ AWS • 🔐 JWT • 🛠️ APIs • 🗄️ SQL
+</p>
 
 ---
 
-<h2>📫 Contato</h2>
+<h2 align="center">🎯 Missões</h2>
 
-📧 ruthanastacio0@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/ruth-camile
+<p align="center">
+💼 Conseguir estágio <br>
+⚡ Evoluir no backend <br>
+☁️ Dominar AWS
+</p>
 
 ---
+
+<h2 align="center">📡 Conecte-se comigo</h2>
+
+<p align="center">
+<a href="https://linkedin.com/in/SEU_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=dracula&no-frame=true&row=1"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
