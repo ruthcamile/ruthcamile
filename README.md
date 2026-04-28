@@ -7,16 +7,13 @@
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/PROGRAMADORES%20DO%20AMANHÃ-Turma_5-ff00ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/START+-CYBERSECURITY-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AWS-re/Start-ff9900?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Decola_Tech-Turma_6-ff4500?style=for-the-badge"/>
 </p>
 
 ---
 
 <p align="center">
-💻 Backend | ☁️ AWS | 🚀 Em evolução constante  
+Backend | AWS 
 </p>
 
 ---
@@ -31,12 +28,12 @@
 <h2 align="center">⚡ Tech Stack ⚡</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,ts,mysql,sqlite,docker,git,figma,aws"/>
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,ts,mysql,sqlite,git,figma,aws"/>
 </p>
 
 ---
 
-<h2 align="center">🧠 Atualmente upando skill</h2>
+<h2 align="center"> Atualmente upando skill</h2>
 
 <p align="center">
 ☁️ AWS • 🔐 JWT • 🛠️ APIs • 🗄️ SQL
@@ -44,12 +41,11 @@
 
 ---
 
-<h2 align="center">🎯 Missões</h2>
+<h2 align="center">Missões</h2>
 
 <p align="center">
-💼 Conseguir estágio <br>
-⚡ Evoluir no backend <br>
-☁️ Dominar AWS
+Evoluir no backend <br>
+Dominar AWS
 </p>
 
 ---
