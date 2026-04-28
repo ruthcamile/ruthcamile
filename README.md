@@ -11,7 +11,7 @@ Sempre aprendendo e construindo projetos
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&count_private=true&show_icons=true&theme=merko)
+![Stats](https://github-readme-stats.vercel.app/api?username=ruthcamile&count_private=true&show_icons=true&theme=merko)
 
 ---
 
