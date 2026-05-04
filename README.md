@@ -10,9 +10,7 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ruthcamile&count_private=true&show_icons=true&theme=merko&cache_seconds=86400)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthcamile&layout=compact&theme=radical&cache_seconds=86400"/>
 
 ---
 <h2>Tecnologias</h2><br>
