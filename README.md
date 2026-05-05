@@ -10,7 +10,6 @@
 
 ---
 
-<div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ruthcamile&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruthcamile&layout=compact&theme=tokyonight"/>
 </div>
