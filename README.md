@@ -10,10 +10,10 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ruthcamile&count_private=true&show_icons=true&theme=tokyonight)
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthcamile&layout=compact&theme=radical"/>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ruthcamile&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthcamile&layout=compact&theme=tokyonight"/>
 </div>
-
 ---
 <h2>Tecnologias</h2><br>
 
