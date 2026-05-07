@@ -30,3 +30,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+
+<h2>Conecte-se comigo</h2><br>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ruth-camile-7b6210295/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+
