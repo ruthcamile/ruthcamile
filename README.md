@@ -9,12 +9,6 @@
 [![CAPGEMINI](https://img.shields.io/badge/Start%20by%20Capgemini-Cloud-fff?style=for-the-badge&labelColor=0056D2&logo=capgemini&logoColor=white)](https://www.capgemini.com/)
 
 ---
-
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ruthcamile&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruthcamile&layout=compact&theme=tokyonight"/>
-</div>
-
----
 <h2>Tecnologias</h2>
 
 ### Backend & Cloud
