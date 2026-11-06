@@ -79,7 +79,7 @@ Hoje meu backend fala **COBOL**. Sim, o veterano que segura boa parte do mundo f
 
 ---
 
-<sup><img src="https://cdn.simpleicons.org/github/bd93f9" height="22" /></sup> GitHub
+### <sup><img src="https://cdn.simpleicons.org/github/bd93f9" height="22" /></sup> GitHub
 
 <div align="center">
 
