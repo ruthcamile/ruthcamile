@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=190&section=header&text=Ruth%20Camile&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=backend%20%7C%20cloud%20%7C%20dados%20%7C%20COBOL&descSize=18&descAlignY=60" alt="header" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=bd93f9&size=24&vCenter=true&center=true&width=560&lines=Oiê!+Seja+bem-vinde+%F0%9F%92%9C;Backend+Developer;COBOL+no+dia+a+dia;AWS+Cloud;Data+Analyst" alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=bd93f9&size=24&vCenter=true&center=true&width=560&lines=Oiê!+Seja+bem-vindo+%F0%9F%92%9C;Desenvolvedora+COBOL;AWS+Cloud" alt="typing" />
 
 <br><br>
 
@@ -84,10 +84,10 @@ Hoje meu backend fala **COBOL**. Sim, o veterano que segura boa parte do mundo f
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" alt="linguagens" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruthcamile&theme=dracula" alt="perfil" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruthcamile&theme=dracula" alt="linguagens" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=dracula&hide_border=true&background=00000000" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruthcamile&theme=dracula&hide_border=true&background=00000000" alt="streak" />
 
 </div>
 
