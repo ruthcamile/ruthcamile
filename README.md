@@ -1,20 +1,58 @@
-<h2>Oiê! Me chamo Ruth Camile :) </h2>
+<div align="center">
 
-</h2>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=bd93f9&size=25&vCenter=true&width=500&lines=Backend+Developer;AWS+Cloud;Data+Analyst" />
-</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=190&section=header&text=Ruth%20Camile&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=backend%20%7C%20cloud%20%7C%20dados%20%7C%20COBOL&descSize=18&descAlignY=60" alt="header" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=bd93f9&size=24&vCenter=true&center=true&width=560&lines=Oiê!+Seja+bem-vinde+%F0%9F%92%9C;Backend+Developer;COBOL+no+dia+a+dia;AWS+Cloud;Data+Analyst" alt="typing" />
+
+<br><br>
 
 [![AWS](https://img.shields.io/badge/AWS-re/Start-fff?style=for-the-badge&labelColor=ff9900&logo=amazonaws&logoColor=white)](https://aws.amazon.com/training/restart/)
 [![FACEPE COMPET](https://img.shields.io/badge/FACEPE%20COMPET%20-2025-fff?style=for-the-badge&labelColor=7e01ff&logoColor=white)]()
 [![CAPGEMINI](https://img.shields.io/badge/Start%20by%20Capgemini-Cloud-fff?style=for-the-badge&labelColor=0056D2&logo=capgemini&logoColor=white)](https://www.capgemini.com/)
 
+</div>
+
 ---
-<h2>Tecnologias</h2>
+
+## Sobre mim 👾
+
+Estudante de Análise e Desenvolvimento de Sistemas, ligada com backend, banco de dados e por deixar tudo organizado!
+
+Hoje meu backend fala **COBOL**. Sim, o veterano que segura boa parte do mundo financeiro legado. Aqui eu me apresento no idioma dele:
+
+```cobol
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. SOBRE-MIM.
+       AUTHOR. RUTH-CAMILE.
+
+       DATA DIVISION.
+       WORKING-STORAGE SECTION.
+       01 PERFIL.
+          05 NOME          PIC X(20) VALUE "Ruth Camile".
+          05 CURSO         PIC X(03) VALUE "ADS".
+          05 FOCO          PIC X(30) VALUE "DESENVOLVIMENTO E CLOUD, ".
+          05 TRABALHANDO   PIC X(05) VALUE "COBOL".
+          05 CAFE-POR-DIA  PIC 9(02) VALUE 03.
+          05 SURTOS        PIC 9(04) VALUE 9999.
+
+       PROCEDURE DIVISION.
+       INICIO.
+           DISPLAY "OIÊ! BEM-VINDO AO MEU PERFIL".
+           DISPLAY "PEGA TEU CAFÉ AI".
+           STOP RUN.
+```
+
+---
+
+## Tecnologias
 
 ### Backend & Cloud
+![COBOL](https://img.shields.io/badge/COBOL-Backend-fff?style=for-the-badge&labelColor=0b5d3b)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -42,10 +80,31 @@
 
 ---
 
-<h2>Conecte-se comigo</h2><br>
+## 📊 GitHub
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ruth-camile-7b6210295/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" alt="linguagens" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=dracula&hide_border=true&background=00000000" alt="streak" />
+
+</div>
+
+---
+
+## Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/ruth-camile-7b6210295/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
+
+<br><br>
+
+<div align="center">
+
+![Visitas](https://komarev.com/ghpvc/?username=SEU-USUARIO&color=bd93f9&style=for-the-badge&label=VISITAS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=110&section=footer" alt="footer" />
+
+</div>
